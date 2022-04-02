@@ -52,7 +52,7 @@ One challenge that I found during this project was that I don’t have previous 
 
 On another note I also had bugs because I decided to make my own variable names, this was a problem because there were some functions in java script (light up) that strictly needed the buttons to be named button1,2,3,4. Because this Is a logic mistake, and the console was unable to find the right variable it took me long to solve this bug. At the end I managed to over this problem by taking a break and then analyzing the path the information took. I found out that the problem was I changed the variable names and fixed the issue 
 
-Overall I really enjoyed this project, I learned a lot with it and now I feel more comfortable with web design.
+Overall I really enjoyed this project, I learned a lot with it and now I feel more comfortable with web design .
 
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
