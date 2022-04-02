@@ -1,0 +1,79 @@
+/* a minimalist set of CSS resets */
+
+/* default to border-box */
+html {
+  box-sizing: border-box;
+  font-size: 16px;
+  
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+/* adjust typography settings */
+body {
+  margin: 5rem; /* margin */
+  font-family: sans-serif;/* font type*/
+  line-height: 1.5;  /* spacing between lines */
+  background-color: slategrey;/* background color */
+  color:white; /* color of text */
+  
+}
+/* heading 1 settings */
+h1{
+  font-family: verdana, arial, sans-serif;
+  color:darkblue;
+}
+/* all buttons settings */
+
+button{
+  padding:15px; /* size of buttons */
+  border-radius:10px; /* roundness of buttons */
+}
+
+/* buttons sizes */
+#gameButtonArea > button{
+  width:200px;
+  height:200px;
+  margin:2px;
+}
+
+/* hides stuff class */
+.hidden{
+  display: none;
+}
+
+/* button normal colors */
+ #button1 {
+    background: darkblue;
+}   
+ #button1:active, #button1.lit { 
+    background: lightblue; /* button colors change when clicked */
+}   
+ #button2 {
+    background: darkred;
+}   
+ #button2:active, #button2.lit {
+    background: red; /* button colors change when clicked */
+}   
+
+ #button3 {
+    background: hotpink;
+}   
+ #button3:active, #button3.lit {
+    background: pink;/* button colors change when clicked */
+}  
+ #button4 {
+    background: darkgreen;
+} 
+ #button4:active, #button4.lit {
+    background: lightgreen;/* button colors change when clicked */
+} 
+
+/* images and videos max out at full width */
+img,
+video {
+  height: auto;
+  max-width: 100%;
+}
