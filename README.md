@@ -2,11 +2,11 @@
 
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
-Submitted by: **NAME**
+Submitted by: **Angel Albornoz**
 
-Time spent: **#** hours spent in total
+Time spent: **8** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: (https://interactive-sound-and-light-memory-game.glitch.me)
 
 ## Required Functionality
 
@@ -58,12 +58,12 @@ The following **additional** features are implemented:
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](https://www.loom.com/share/434758c8e39748629b058700aaf74c1e)
+[click here for My 5-minute Interview Recording](https://www.loom.com/share/434758c8e39748629b058700aaf74c1e)
 
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright [Angel Albornoz]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
